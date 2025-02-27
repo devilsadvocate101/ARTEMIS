@@ -18,7 +18,6 @@ Enter: `swordnub`
 - **Administrator privileges, private server & channel**.
 - [**Isekaid bot**](https://top.gg/bot/989440183428599849).
 - **Message-purging bot**, by default: [**Nekotina**](https://top.gg/bot/429457053791158281).
-- **One-hit kill character**.
 
 ## **Setup Guide** (Important)
 ### **PC Users**
