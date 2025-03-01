@@ -1,4 +1,4 @@
-# The Exotic Tools FAQ
+# The Exotic Tools FAQs
 
 **Q: Does this script use a token?**  
 A: Yes, there’s no other way to interact with Discord’s API without a token. Since it uses a token, I have no access to your password. But don’t worry—I guarantee this is safe. If anyone is hoping for people to get hacked, sorry to disappoint—no one is getting hacked. If you’re still paranoid, just enable 2FA or use SMS verification. 
